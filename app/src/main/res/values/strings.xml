@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReCaptcha Sample</string>
+    <string name="dialogue">"how we think we can stop the Italian bot : Are you Human or Italian bot ?"</string>
+    <string name="btn_check_human">Ok, is you a human?</string>
+</resources>
